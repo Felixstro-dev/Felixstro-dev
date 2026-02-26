@@ -4,30 +4,25 @@
   </a>
 </p>
 
-<h1 align="center">Yo, I'm Felix! 👋</h1>
+<h1 align="center">Yo, I'm Felix! </h1>
 
 <p align="center">
-  Web Developer obsessed with making things work + currently eating JavaScript for breakfast. 😎<br>
-  Building cool stuff with code and open-source vibes.
+  Im a Small Web devoloper working by CHJK Studios.
 </p>
 
 <br>
 
-<h3 align="center">🛠️ Tech & Tools I Use</h3>
+<h3 align="center"> Tech & Tools I Use</h3>
 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,linux,ubuntu,docker,vercel,github,markdown,raspberrypi,brave&perline=7" alt="Skills Icons" />
 </p>
 
-<p align="center">
-  <i>Appwrite · CodePen · Linux Mint · Raspberry Pi</i> and more...
-</p>
+
 
 <br>
 
-<p align="center">
-  Im Always learning new Skills.
-</p>
+
 
 <p align="center">
   <a href="https://github.com/yourusername">
