@@ -14,7 +14,7 @@
 <img src="./icons/stack.svg" />
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,python,nodejs,bash,git,linux,docker,vercel,cloudflare,appwrite,vscode,github,markdown,raspberrypi,brave&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,py,html,css,bash,nodejs,flask,fastapi,express,docker,linux,raspberrypi,vercel,cloudflare,github,git,vscode,ubuntu,mint,debian,brave,discord&theme=dark&perline=10" />
 </p>
 
 ---
