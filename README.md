@@ -21,12 +21,12 @@
 
 <img src="./icons/coding-stats.svg" />
 
-<p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=29997&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
-</p>
-<p align="center">
-  <img src="https://heatmap.shymike.dev/?id=29997&timezone=Europe%2FBerlin" />
-</p>
+<a href="https://heatmap.shymike.dev?id=29997&labels=true&ranges=70%2C43%2C25&year=current&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=29997&labels=true&ranges=70%2C43%2C25&year=current&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=29997&labels=true&ranges=70%2C43%2C25&year=current&theme=light">
+    </picture>
+</a>
 
 ---
 
